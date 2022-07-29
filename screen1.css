@@ -38,7 +38,7 @@ ul{
     display: inline-block;
     padding-right: 12px;
     position: relative;
-    background: white;
+    
     
    
 }
@@ -101,6 +101,12 @@ ul{
     width: 30px;
     border-radius: 5px;
    align-items: center;
+}
+.box:hover{
+     
+    border: rgb(110, 67, 179) solid 2px;
+    border-radius: 5px;
+  
 }
 .first-cell{
     text-align: left;
